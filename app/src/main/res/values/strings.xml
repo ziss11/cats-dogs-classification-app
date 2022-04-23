@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageClassification</string>
+    <string name="classify_image">Classify Image</string>
+    <string name="classify">Classify</string>
+</resources>
